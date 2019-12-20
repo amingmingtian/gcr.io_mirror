@@ -1,2 +1,2 @@
-FROM gcr.io/kubernetes-helm/tiller:v3.0.1
+FROM gcr.io/kubernetes-helm/tiller:v2.2.3
 MAINTAINER amingmingtian@sina.com
